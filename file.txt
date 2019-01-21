@@ -1,1 +1,2 @@
 I am learning git!
+I'm adding a second line for the second commit.
